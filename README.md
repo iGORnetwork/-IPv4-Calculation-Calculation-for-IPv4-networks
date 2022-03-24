@@ -8,8 +8,8 @@
 
 ![](https://github.com/iGORnetwork/-IPv4-Calculation-Calculation-for-IPv4-networks/blob/main/image/Screenshot_3.png)
 
-![](https://github.com/iGORnetwork/-IPv4-Calculation-Calculation-for-IPv4-networks/blob/main/image/Screenshot_4.png)
+![](https://github.com/iGORnetwork/-IPv4-Calculation-Calculation-for-IPv4-networks/blob/main/image/Screenshot_7.png)
 
 ![](https://github.com/iGORnetwork/-IPv4-Calculation-Calculation-for-IPv4-networks/blob/main/image/Screenshot_5.png)
 
-![](https://github.com/iGORnetwork/-IPv4-Calculation-Calculation-for-IPv4-networks/blob/main/image/Screenshot_6.png)
+![](https://github.com/iGORnetwork/-IPv4-Calculation-Calculation-for-IPv4-networks/blob/main/image/Screenshot_8.png)
